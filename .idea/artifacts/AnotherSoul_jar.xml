@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnotherSoul:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnotherSoul_jar</output-path>
+    <root id="archive" name="AnotherSoul.jar">
+      <element id="module-output" name="AnotherSoul" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../json-20231013.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
